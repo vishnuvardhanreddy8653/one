@@ -5,7 +5,7 @@
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
 	<version>25H2</version>
-	<filename>target/myweb-8.6.9.war</filename>
+	<filename>myweb</filename>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
