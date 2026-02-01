@@ -7,7 +7,7 @@
     
     <groupId>com.myweb</groupId>
     <artifactId>myweb</artifactId>
-    <version>25H2</version>
+    <version>25H2-SNAPSHOT</version>
     <packaging>war</packaging>
     
     <build>
